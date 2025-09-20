@@ -18,15 +18,7 @@ I hold a diploma in Digital Infrastructure, Systems, and Networks. I started lea
 <br clear="right"/>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefdergham&layout=compact&theme=dark" alt="Top Languages"/>
-</div>
 
-## 🎯 LeetCode Heatmap
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/yousefmohameddergham?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
-</div>
 
 
 ## 🔗 Connect with Me
