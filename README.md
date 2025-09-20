@@ -3,19 +3,15 @@
 
 ** CS Student . Cybersecurity Student Pentesting . Coffee Lover ☕**
 
-💼 **Current:** Cybersecurity Student Pentesting at [DATAPROTECT](https://www.dataprotect.ma/)
+ **Current:** Cybersecurity Student Pentesting at [DATAPROTECT](https://www.dataprotect.ma/)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
-</p>
+
 
 ## 🚀 About Me
 
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZxcmlrNmloamtsY3Zqd25saGl3NjNiaDQzNnN5ems5NHk0ZnZ0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="200" alt="Coding GIF"/>
 
-I am a Software Engineer skilled in React, Next.js, WordPress, PHP, and more. <br/>
-I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
-
+I hold a diploma in Digital Infrastructure, Systems, and Networks. I started learning programming through Python to build a strong foundation in coding, and I am currently pursuing studies in Cybersecurity with a focus on Penetration Testing. <br/>
 
 
 
