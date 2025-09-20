@@ -1,9 +1,9 @@
 
 # Hey there, I'm [Imad Boukrim](https://yousefdergham.vercel.app/) 👋
 
-**Full-stack Web Developer · CS Student · Coffee Lover ☕**
+** CS Student . Cybersecurity Student Pentesting . Coffee Lover ☕**
 
-💼 **Current:** Software Engineer at [Almadrsa](https://almdrasa.com)
+💼 **Current:** Cybersecurity Student Pentesting at [DATAPROTECT](https://www.dataprotect.ma/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
