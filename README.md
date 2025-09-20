@@ -26,6 +26,6 @@ I hold a diploma in Digital Infrastructure, Systems, and Networks. I started lea
 <div align="center">
   
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yousefdergham)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imade-boukrim-9243802a7/)
 
 </div>
